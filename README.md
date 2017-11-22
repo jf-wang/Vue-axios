@@ -67,3 +67,6 @@ import {requestLogin,getList} from '../api/api'
 
   })
 ```
+![demo](https://raw.githubusercontent.com/jf-wang/Vue-axios/master/static/image/git.png)
+![demo](https://raw.githubusercontent.com/jf-wang/Vue-axios/master/static/image/gitListYes.png)
+![demo](https://raw.githubusercontent.com/jf-wang/Vue-axios/master/static/image/gitList.png)
