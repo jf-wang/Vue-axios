@@ -3,7 +3,7 @@
 // 第二个为path 路径 ，
 //第三个为params接收的DATA
 import axios from 'axios';
-let base = 'http://192.168.2.250:8088';
+let base = 'http://**********';
 //----------------------------------------------------登录
 export const requestLogin = params => { //登录接口
 return axios.post(`${base}/main/login`, params) //路径
