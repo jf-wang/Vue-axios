@@ -11,7 +11,6 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 创建一个js文件，如下：
-```
 // 默认接收参数
 //第一个总是authorization（用户token验证），
 // 第二个为path 路径 ，
